@@ -17,9 +17,11 @@ function App() {
               </p>
             </div>
         </div>  
-        <p className="card-desc">
-          I've been searching for high-quality abstract images for my design projects, and I'm thrilled to have found this platform. The variety and depth of creativity are astounding!
-        </p>    
+        <div>
+          <p className="card-desc">
+            I've been searching for high-quality abstract images for my design projects, and I'm thrilled to have found this platform. The variety and depth of creativity are astounding!
+          </p>
+        </div>    
       </div>
     </div>
   )
