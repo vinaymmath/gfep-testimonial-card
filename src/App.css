@@ -28,6 +28,11 @@ body{
 
 .profile{
   display: flex;
+  align-items: center;
+}
+.img-container{
+  display: flex;
+  align-items: center;
 }
 
 .profile-img{
@@ -64,5 +69,4 @@ body{
   font-size: 1rem;
   line-height: 1.5rem;
   color: #525252;
-  margin-top: 0.25rem;
 }
