@@ -1,5 +1,5 @@
 import './App.css'
-import ProfileImg from "./assets/profile_thumbnail.png"
+import ProfileImg from "./assets/profile_thumbnail.png";
 function App() {
   return (
     <div className="container">
