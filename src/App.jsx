@@ -5,7 +5,9 @@ function App() {
     <div className="container">
       <div className="card">
         <div className="profile">
-            <img src={ProfileImg} className="profile-img" alt="profile-img"></img>
+            <div className="img-container">
+              <img src={ProfileImg} className="profile-img" alt="profile-img"></img>
+            </div>
             <div className="profile-identification">
               <h3 className="profile-name">
                 Sarah Dole
